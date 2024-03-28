@@ -1,3 +1,5 @@
+<?php
+
 ini_set('memory_limit', '2G');
 
 $csvData = "..."; // Assume CSV data is loaded here
